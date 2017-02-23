@@ -101,14 +101,13 @@ var initBall = function() {
 // Page03
 
 var people = [
-	["01", "刘成", "设计师", "MEMORY DESIGN", "小刘成.jpg", "大刘成.jpg"],
-	["02", "大爷", "设计师", "MEMORY DESIGN", "小大爷.jpg", "大大爷.jpg"],
-	["03", "婷婷", "设计师", "MEMORY DESIGN", "小婷婷.jpg", "大婷婷.jpg"],
-	["04", "成昊", "设计师", "MEMORY DESIGN", "小成昊.jpg", "大成昊.jpg"],
-	["05", "细心", "设计师", "MEMORY DESIGN", "小细心.jpg", "大细心.jpg"],
-	["06", "袁月姐", "设计师", "MEMORY DESIGN", "小袁月姐.jpg", "大袁月姐.jpg"],
-	["07", "邱丹", "设计师", "MEMORY DESIGN", "小邱丹.jpg", "大邱丹.jpg"],
-	["08", "钉子", "设计师", "MEMORY DESIGN", "小钉子.jpg", "大钉子.jpg"]
+	["01", "刘成", "Designer", "刘成", "小刘成.jpg", "大刘成.jpg"],
+	["02", "黄子心", "General Manager", "黄子心", "小大爷.jpg", "大大爷.jpg"],
+	["03", "戴玉婷", "Designer", "戴玉婷", "小婷婷.jpg", "大婷婷.jpg"],
+	["04", "席欣", "Planning Director", "席欣", "小细心.jpg", "大细心.jpg"],
+	["05", "袁月", "Operating Director", "袁月", "小袁月姐.jpg", "大袁月姐.jpg"],
+	["06", "邱丹", "Administrator", "邱丹", "小邱丹.jpg", "大邱丹.jpg"],
+	["07", "丁予", "Chief Designer", "丁予", "小钉子.jpg", "大钉子.jpg"]
 ];
 
 var initPWP = function() {
@@ -363,10 +362,10 @@ var initCases = function(nToShow=6) {
 // Page05
 
 var demands = [
-	["01", "设计师 I", "MEMORY DESIGN", "禁得起压力<br>软件<br>态度<br>负责"],
-	["02", "设计师 II", "MEMORY DESIGN", "禁得起压力<br>软件<br>态度<br>负责"],
-	["03", "设计师 III", "MEMORY DESIGN", "禁得起压力<br>软件<br>态度<br>负责"],
-	["04", "设计师 IV", "MEMORY DESIGN", "禁得起压力<br>软件<br>态度<br>负责"]
+	["01", "客户经理", "Manager", "项目策划方案撰写<br>团队协调与执行把控<br>客户维护<br>3年+经验"],
+	["02", "客户主任", "AE", "协助客户经理完成项目<br>可出执行案<br>能吃苦能禁得住压力能BB<br>1年+经验"],
+	["03", "文案策划", "SWR", "熟悉Social最新玩法及运营方式<br>有独立策划和文字能力<br>思维敏捷<br>2年+经验"],
+	["04", "设计师", "Designer", "抗得起压力<br>耐得住性子<br>有态度有想法<br>1年+经验"]
 ];
 
 var initDL = function() {
